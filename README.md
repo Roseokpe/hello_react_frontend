@@ -101,9 +101,9 @@ After you're finished please remove all the comments and instructions!
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 - [Live link coming soon](https://...)
-- [API Link](https://greeting-t0aj.onrender.com/greetings)
+- [API Link](https://greetingapp.onrender.com/messages)
 
-- [Backend Repository](https://github.com/principlebrothers/hello_rails/tree/dev)
+- [Backend Repository](https://github.com/Roseokpe/hello_rails_back_end)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

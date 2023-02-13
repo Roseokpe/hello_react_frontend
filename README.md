@@ -1,13 +1,8 @@
 <a name="readme-top"></a>
 
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
 
-Modify this file to match your project and remove sections that don't apply.
+# Table of Contents
 
-REQUIRED SECTIONS:
-- Table of Contents
 - About the Project
   - Built With
   - Live Demo
@@ -19,13 +14,7 @@ REQUIRED SECTIONS:
 - Acknowledgements
 - License
 
-After you're finished please remove all the comments and instructions!
--->
 
-<div align="center">
-
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
 
   <h3><b>GREETING API</b></h3>
 
@@ -101,9 +90,9 @@ After you're finished please remove all the comments and instructions!
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 - [Live link coming soon](https://...)
-- [API Link](https://greeting-t0aj.onrender.com/greetings)
+- [API Link](https://greetingapp.onrender.com/messages)
 
-- [Backend Repository](https://github.com/principlebrothers/hello_rails/tree/dev)
+- [Backend Repository](https://github.com/Roseokpe/hello_rails_back_end)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
